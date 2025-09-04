@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+
 new line added to dev branch
-=======
+
 def login():
     # predefined username and password
     username = "admin"
@@ -19,4 +19,4 @@ def login():
 # call the function
 login()
 new line added to the features/login branch
->>>>>>> features/login
+
